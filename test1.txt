@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AE5D-573E
+
+ Directory of C:\Users\treys\OneDrive\Desktop\My Project
+
+03/03/2020  01:37 AM    <DIR>          .
+03/03/2020  01:37 AM    <DIR>          ..
+03/03/2020  01:37 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  219,130,417,152 bytes free
